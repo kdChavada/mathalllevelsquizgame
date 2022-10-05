@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1049738483041",
+    "project_id": "mathalllevelsquizgame",
+    "storage_bucket": "mathalllevelsquizgame.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1049738483041:android:2350d518aff730ec41e120",
+        "android_client_info": {
+          "package_name": "com.example.mathalllevelsquizgame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1049738483041-c6d9lmpne92p7vbp594m0o0ls7lrbh9p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mathalllevelsquizgame",
+            "certificate_hash": "af932db8012e27ba248a2d13ba576c2421bc456d"
+          }
+        },
+        {
+          "client_id": "1049738483041-cqoel0lacc64j00m32fmtor9igs34ko7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEJD_bpJNKBdNyot89MZ50BFyehVuALKw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1049738483041-cqoel0lacc64j00m32fmtor9igs34ko7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
